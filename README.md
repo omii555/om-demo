@@ -1,2 +1,2 @@
 # om-demo
-this is  a demo for github class
+this is  a demo for github class.
